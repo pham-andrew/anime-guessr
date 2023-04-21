@@ -54,7 +54,7 @@ function App() {
             AnimeGuessr
           </Typography>
           <Typography variant='h6'>
-            We show you the scene, you pick the real life location.
+            Guess the location of the Anime!
           </Typography>
           {state === 0 &&
             <>
@@ -75,9 +75,6 @@ function App() {
                 style={{width: "560px", height:"315px"}}
                 onChangeLocation={handleChangeLocation} 
                 apiKey='AIzaSyD07E1VvpsN_0FvsmKAj4nK9GnLq-9jtj8'/>
-              <Typography>Currently Selected Location: </Typography>
-              <label>Latitute:</label><input type='text' value={location.lat} disabled/>
-              <label>Longitute:</label><input type='text' value={location.lng} disabled/>
               <Box sx={{display: "flex", justifyContent: "center", marginTop: "1em"}}>
                 <Button variant='contained' onClick={handleSubmit}>Submit</Button>
               </Box>
