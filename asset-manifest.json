@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anime-guessr/static/css/main.073c9b0a.css",
+    "main.js": "/anime-guessr/static/js/main.9b8cec99.js",
+    "static/js/787.3ad7a7b1.chunk.js": "/anime-guessr/static/js/787.3ad7a7b1.chunk.js",
+    "static/media/logo.svg": "/anime-guessr/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/anime-guessr/index.html",
+    "main.073c9b0a.css.map": "/anime-guessr/static/css/main.073c9b0a.css.map",
+    "main.9b8cec99.js.map": "/anime-guessr/static/js/main.9b8cec99.js.map",
+    "787.3ad7a7b1.chunk.js.map": "/anime-guessr/static/js/787.3ad7a7b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9b8cec99.js"
+  ]
+}
