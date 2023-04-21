@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/anime-guessr/static/js/main.dbca35ab.js",
+    "main.js": "/anime-guessr/static/js/main.7f3c8dc6.js",
     "static/js/787.3ad7a7b1.chunk.js": "/anime-guessr/static/js/787.3ad7a7b1.chunk.js",
     "index.html": "/anime-guessr/index.html",
-    "main.dbca35ab.js.map": "/anime-guessr/static/js/main.dbca35ab.js.map",
+    "main.7f3c8dc6.js.map": "/anime-guessr/static/js/main.7f3c8dc6.js.map",
     "787.3ad7a7b1.chunk.js.map": "/anime-guessr/static/js/787.3ad7a7b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.dbca35ab.js"
+    "static/js/main.7f3c8dc6.js"
   ]
 }
